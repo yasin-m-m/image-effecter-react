@@ -1,6 +1,6 @@
 # Image Manipulation Web App
 
-This repository contains the code for an image manipulation web app. The app allows users to upload images and apply various image manipulation techniques to them.
+This repository contains the code for an image manipulation web app built with React.js. The app allows users to upload images and apply various image manipulation techniques to them.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains the code for an image manipulation web app. The app all
 ## Features
 
 - Image uploading: Users can easily upload their images to the web app.
-- Image manipulation techniques: The app provides various image manipulation techniques such as filters, cropping, resizing, and more.
+- Image manipulation techniques: The app provides various image manipulation techniques such as filters, and more.
 - Real-time preview: Users can see a real-time preview of the applied effects before saving the image.
 - Save and download: Users can save the manipulated image and download it to their device.
 
